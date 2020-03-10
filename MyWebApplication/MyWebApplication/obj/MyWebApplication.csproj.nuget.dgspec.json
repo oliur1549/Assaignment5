@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj": {}
+    "F:\\Projects\\Assaignment5\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj": {
+    "F:\\Projects\\Assaignment5\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
+        "projectUniqueName": "F:\\Projects\\Assaignment5\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
         "projectName": "MyWebApplication",
-        "projectPath": "F:\\Projects\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
+        "projectPath": "F:\\Projects\\Assaignment5\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\MyWebApplication\\MyWebApplication\\obj\\",
+        "outputPath": "F:\\Projects\\Assaignment5\\MyWebApplication\\MyWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
