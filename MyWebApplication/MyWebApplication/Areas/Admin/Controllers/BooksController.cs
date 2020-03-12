@@ -8,12 +8,11 @@ using MyWebApplication.Areas.Admin.Models;
 namespace MyWebApplication.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class DashboardController : Controller
-
+    public class BooksController : Controller
     {
         public IActionResult Index()
         {
-            var model = new DashboardModel();
+            var model = new BookModel();
             return View(model);
         }
     }
