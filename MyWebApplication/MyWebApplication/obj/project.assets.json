@@ -2652,6 +2652,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "MyWebProject.Framework/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyWebProject.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyWebProject.Framework.dll": {}
+        }
       }
     }
   },
@@ -8682,6 +8692,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "MyWebProject.Framework/1.0.0": {
+      "type": "project",
+      "path": "../MyWebProject.Frameword/MyWebProject.Framework.csproj",
+      "msbuildProject": "../MyWebProject.Frameword/MyWebProject.Framework.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8692,7 +8707,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.1",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.1",
       "Microsoft.TypeScript.MSBuild >= 3.8.3",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1",
+      "MyWebProject.Framework >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8720,7 +8736,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Projects\\Assaignment5\\MyWebApplication\\MyWebProject.Frameword\\MyWebProject.Framework.csproj": {
+              "projectPath": "F:\\Projects\\Assaignment5\\MyWebApplication\\MyWebProject.Frameword\\MyWebProject.Framework.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -25,4 +25,9 @@
     <Folder Include="wwwroot\admin\" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyWebProject.Frameword\MyWebProject.Framework.csproj" />
+  </ItemGroup>
+
 </Project>

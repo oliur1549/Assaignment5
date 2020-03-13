@@ -315,3 +315,5 @@ F:\Projects\Assaignment5\MyWebApplication\MyWebApplication\obj\Debug\netcoreapp3
 F:\Projects\Assaignment5\MyWebApplication\MyWebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 F:\Projects\Assaignment5\MyWebApplication\MyWebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Books\Index.cshtml.g.cs
 F:\Projects\Assaignment5\MyWebApplication\MyWebApplication\obj\Debug\netcoreapp3.1\MyWebApplication.csprojAssemblyReference.cache
+F:\Projects\Assaignment5\MyWebApplication\MyWebApplication\bin\Debug\netcoreapp3.1\MyWebProject.Framework.dll
+F:\Projects\Assaignment5\MyWebApplication\MyWebApplication\bin\Debug\netcoreapp3.1\MyWebProject.Framework.pdb

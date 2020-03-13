@@ -1,0 +1,7 @@
+F:\Projects\Assaignment5\MyWebApplication\MyWebProject.Frameword\bin\Debug\netcoreapp3.1\MyWebProject.Framework.deps.json
+F:\Projects\Assaignment5\MyWebApplication\MyWebProject.Frameword\bin\Debug\netcoreapp3.1\MyWebProject.Framework.dll
+F:\Projects\Assaignment5\MyWebApplication\MyWebProject.Frameword\bin\Debug\netcoreapp3.1\MyWebProject.Framework.pdb
+F:\Projects\Assaignment5\MyWebApplication\MyWebProject.Frameword\obj\Debug\netcoreapp3.1\MyWebProject.Framework.AssemblyInfoInputs.cache
+F:\Projects\Assaignment5\MyWebApplication\MyWebProject.Frameword\obj\Debug\netcoreapp3.1\MyWebProject.Framework.AssemblyInfo.cs
+F:\Projects\Assaignment5\MyWebApplication\MyWebProject.Frameword\obj\Debug\netcoreapp3.1\MyWebProject.Framework.dll
+F:\Projects\Assaignment5\MyWebApplication\MyWebProject.Frameword\obj\Debug\netcoreapp3.1\MyWebProject.Framework.pdb
